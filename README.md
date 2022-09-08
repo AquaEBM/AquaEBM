@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AquaEBM
-- Thanks to [Numworks](https://github.com/numworks) for introducing me to the magnificent world of programming.
 - I listen to A LOT of dubstep.
 - I’m currently learning Digital Signal Processing, Audio Programming, Quantum computing and Q#
 - I’m looking to collaborate on more Rust projects, Rust is an amazing language.
