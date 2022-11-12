@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AquaEBM
-- I listen to A LOT of dubstep.
-- I’m currently learning Digital Signal Processing, Audio Programming, Quantum computing and Q#
-- I’m looking to collaborate on more Rust projects, Rust is an amazing language.
+- Crazy dubstep enjoyer.
+- DSP and audio plugin enthusiast
+- Python by day, rust by night
 
 <!---
 AquaEBM/AquaEBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
