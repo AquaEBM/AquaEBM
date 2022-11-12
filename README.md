@@ -1,6 +1,6 @@
 - Crazy dubstep enjoyer.
 - DSP and audio plugin enthusiast
-- Python by day, rust by night
+- Python by day, Rust by night
 
 <!---
 AquaEBM/AquaEBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
