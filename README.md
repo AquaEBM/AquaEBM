@@ -1,4 +1,4 @@
-- Crazy dubstep enjoyer.
+- wonky dubstep enjoyer.
 - DSP and audio plugin enthusiast
 - Python by day, Rust by night
 
